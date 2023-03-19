@@ -12,6 +12,7 @@
 /.next/
 /out/
 
+*events_old
 # production
 /build
 
